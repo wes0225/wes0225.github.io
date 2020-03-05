@@ -75,8 +75,7 @@ p {
   margin-right: 30px;
 }
 .music {
-  background-image: music-note.jpg;
-  background-size: cover;
+  
 }
 .grid{
   display: grid;
