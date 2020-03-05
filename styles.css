@@ -1,5 +1,6 @@
 .home {
   background-color: black;
+  height: 100%;
 }
 
 .home h1 {
@@ -23,7 +24,7 @@ html {
 }
 body {
   Margin: 10px;
-  border: 100px solid black;
+  border: 50px solid black;
 }
 h2 {
   font-size: 75px;
