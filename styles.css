@@ -75,7 +75,8 @@ p {
   margin-right: 30px;
 }
 .music {
-  
+  margin-left: 75px;
+  margin-right: 75px;
 }
 .grid{
   display: grid;
